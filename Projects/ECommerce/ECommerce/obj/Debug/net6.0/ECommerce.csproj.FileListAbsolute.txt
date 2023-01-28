@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.exe
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.deps.json
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.runtimeconfig.json
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.dll
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\bin\Debug\net6.0\ECommerce.pdb
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.AssemblyInfo.cs
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.dll
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\refint\ECommerce.dll
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.pdb
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ECommerce.genruntimeconfig.cache
+C:\Aulas\Turmas\FastTrack SharpCoders\Projects\ECommerce\ECommerce\obj\Debug\net6.0\ref\ECommerce.dll
