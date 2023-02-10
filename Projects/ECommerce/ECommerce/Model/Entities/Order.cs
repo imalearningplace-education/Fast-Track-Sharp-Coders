@@ -1,14 +1,16 @@
-﻿namespace ECommerce.Entities; 
+﻿namespace ECommerce.Model.Entities;
 
-public class Order {
+public class Order
+{
 
     public List<ProductOrder> products { get; set; }
 
-    public double Total {
-        get {
+    public double Total
+    {
+        get
+        {
             return products.Sum(p => p.SubTotal);
         }
     }
 
 }
-     
